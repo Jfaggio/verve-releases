@@ -21,7 +21,7 @@ L'icône Verve en bas à droite de l'écran, près de l'horloge, ouvre les régl
 
 ## Confidentialité
 
-La reconnaissance vocale et la correction tournent sur ton PC. Ta voix et tes textes ne sont envoyés nulle part.
+Par défaut, la reconnaissance vocale et la correction tournent sur ton PC : ta voix et tes textes n'en sortent pas.
 
 ## Configuration requise
 
