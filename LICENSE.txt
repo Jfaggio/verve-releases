@@ -1,0 +1,65 @@
+LICENCE D'UTILISATION DE VERVE
+Usage personnel et non commercial
+
+Copyright © 2026 Tech-Side Consulting. Tous droits réservés.
+
+En installant ou en utilisant le logiciel Verve (le « Logiciel »), vous acceptez les
+conditions ci-dessous. Si vous ne les acceptez pas, n'installez pas et n'utilisez pas
+le Logiciel.
+
+1. Licence accordée
+Tech-Side Consulting (l'« Éditeur ») vous accorde une licence gratuite, non exclusive,
+non transférable et révocable d'installer et d'utiliser le Logiciel, pour un usage
+strictement personnel et privé.
+
+2. Usages interdits
+Sauf accord écrit préalable de l'Éditeur, il est interdit :
+a) d'utiliser le Logiciel dans un cadre professionnel ou commercial : pour le compte
+   d'une entreprise, d'une administration, d'une association ou d'une activité
+   indépendante, y compris pour un employeur ou pour des clients ;
+b) de vendre, louer, concéder en sous-licence ou distribuer le Logiciel, ou d'en tirer
+   un revenu de quelque manière que ce soit ;
+c) de modifier le Logiciel, d'en créer des œuvres dérivées ou de le redistribuer sous
+   une forme modifiée ;
+d) de décompiler ou désassembler le Logiciel, sauf dans les cas où la loi l'autorise
+   expressément ;
+e) de retirer ou de masquer les mentions de propriété et la présente licence.
+
+Vous pouvez partager l'installeur d'origine, non modifié et à titre gratuit, avec des
+proches, pour leur propre usage personnel aux conditions de la présente licence.
+
+3. Propriété intellectuelle
+Le Logiciel est concédé sous licence et non vendu. L'Éditeur conserve l'ensemble des
+droits de propriété intellectuelle sur le Logiciel, son nom, son logo et son interface.
+
+4. Composants tiers
+Le Logiciel utilise ou télécharge des composants et des modèles fournis par des tiers
+(notamment des bibliothèques de reconnaissance vocale et des modèles de langage). Ces
+éléments restent soumis à leurs propres licences, qui prévalent pour ce qui les
+concerne.
+
+5. Données
+La reconnaissance vocale et la correction s'exécutent par défaut sur votre ordinateur.
+L'Éditeur ne collecte ni votre voix, ni vos textes, ni vos réglages. Si vous activez un
+service en ligne proposé en option, les textes dictés sont transmis au fournisseur de
+ce service, selon ses propres conditions. L'installation télécharge des composants
+depuis des serveurs tiers.
+
+6. Absence de garantie
+Le Logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou
+implicite, notamment quant à l'exactitude des textes produits. Il vous appartient de
+relire les textes avant de les utiliser ou de les envoyer.
+
+7. Limitation de responsabilité
+Dans les limites autorisées par la loi, l'Éditeur ne pourra être tenu responsable
+d'aucun dommage direct ou indirect résultant de l'utilisation du Logiciel ou de
+l'impossibilité de l'utiliser.
+
+8. Fin de la licence
+La licence prend fin automatiquement en cas de non-respect de ses conditions. Vous
+devez alors cesser d'utiliser le Logiciel et le désinstaller.
+
+9. Droit applicable
+La présente licence est soumise au droit français.
+
+Pour un usage professionnel ou commercial, contactez Tech-Side Consulting.

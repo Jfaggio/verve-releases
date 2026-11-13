@@ -26,3 +26,7 @@ Par défaut, la reconnaissance vocale et la correction tournent sur ton PC : ta 
 ## Configuration requise
 
 Windows 10 ou 11, 64 bits, un micro. Une carte graphique NVIDIA de 6 Go ou plus donne la meilleure précision ; sans elle, Verve utilise un modèle plus léger.
+
+## Licence
+
+Copyright © 2026 Tech-Side Consulting. Verve est gratuit pour un usage strictement personnel. Tout usage professionnel, en entreprise ou commercial est interdit sans accord écrit de l'éditeur. Le texte complet est dans [LICENSE.txt](LICENSE.txt) et s'affiche à l'installation.
