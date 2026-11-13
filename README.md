@@ -6,7 +6,7 @@ Parle, c'est déjà écrit. Verve transforme ta voix en texte corrigé, dans Tea
 
 ## Installer
 
-1. Télécharge **[Verve-Setup.exe](https://github.com/Jfaggio/verve-releases/releases/latest/download/Verve-Setup.exe)**.
+1. Ouvre la **[dernière version](https://github.com/Jfaggio/verve-releases/releases/latest)** et télécharge le fichier `Verve-Setup-x.y.z.exe`.
 2. Ouvre le fichier téléchargé et clique sur **Installer**. Aucun droit administrateur n'est demandé.
 3. Verve s'ouvre et prépare ton PC : il télécharge une fois les composants nécessaires (de 0,5 à 6 Go selon ta carte graphique). Tu peux continuer à utiliser ton ordinateur pendant ce temps.
 4. Choisis ton bouton de dictée, par exemple un bouton latéral de la souris.
