@@ -11,7 +11,7 @@ Parle, c'est déjà écrit. Verve transforme ta voix en texte corrigé, dans Tea
 3. Verve s'ouvre et prépare ton PC : il télécharge une fois les composants nécessaires (de 0,5 à 6 Go selon ta carte graphique). Tu peux continuer à utiliser ton ordinateur pendant ce temps.
 4. Choisis ton bouton de dictée, par exemple un bouton latéral de la souris.
 
-Si Windows affiche « Windows a protégé votre ordinateur », clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. Ce message apparaît parce que le logiciel est récent.
+L'installeur est signé par son éditeur, **Tech-Side Consulting** : Windows affiche ce nom au moment de l'installation. Si Windows affiche quand même « Windows a protégé votre ordinateur », vérifie que l'éditeur indiqué est bien Tech-Side Consulting, clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. Ce message apparaît parce que le logiciel est récent.
 
 ## Utiliser
 
