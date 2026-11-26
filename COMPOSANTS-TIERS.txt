@@ -1,0 +1,33 @@
+COMPOSANTS TIERS UTILISÉS PAR VERVE
+
+Verve est édité par Tech-Side Consulting. Il s'appuie sur les composants ci-dessous, qui restent la
+propriété de leurs auteurs et soumis à leurs propres licences. L'installeur contient les bibliothèques
+Python ; les modèles, le moteur de correction et les bibliothèques GPU sont téléchargés au premier
+lancement depuis les lots publiés par l'éditeur, sans modification de leur code. Les binaires que
+leur éditeur n'a pas signés sont signés par Tech-Side Consulting, ce qui atteste leur provenance et
+non leur paternité.
+
+Modèle de correction
+  Gemma 3 4B (Google), quantification GGUF Q4_K_M.
+  Soumis aux conditions d'utilisation de Gemma : https://ai.google.dev/gemma/terms
+  et à la politique d'usages interdits : https://ai.google.dev/gemma/prohibited_use_policy
+  En utilisant la correction par IA locale, vous acceptez ces conditions.
+
+Moteur de correction
+  llama.cpp, auteurs de ggml. Licence MIT. https://github.com/ggml-org/llama.cpp
+
+Reconnaissance vocale
+  Modèles Whisper (OpenAI), convertis au format CTranslate2. Licence MIT.
+  faster-whisper (SYSTRAN). Licence MIT. https://github.com/SYSTRAN/faster-whisper
+  CTranslate2 (OpenNMT). Licence MIT. https://github.com/OpenNMT/CTranslate2
+
+Accélération par carte graphique NVIDIA
+  cuBLAS, cuDNN et bibliothèques d'exécution CUDA (NVIDIA Corporation), redistribuées sans modification
+  de leur code. Soumises aux contrats de licence NVIDIA :
+  https://docs.nvidia.com/cuda/eula/ et https://docs.nvidia.com/deeplearning/cudnn/latest/reference/eula.html
+
+Environnement d'exécution et bibliothèques
+  Python (Python Software Foundation License), ONNX Runtime (MIT), NumPy (BSD), httpx (BSD),
+  PyYAML (MIT), Pillow (MIT-CMU), pywebview (BSD), pythonnet (MIT), pystray (LGPL v3),
+  sounddevice (MIT) et PortAudio (MIT), keyboard (MIT), pyperclip (BSD), keyring (MIT), truststore (MIT),
+  PyInstaller (GPL avec exception autorisant la distribution des applications empaquetées).

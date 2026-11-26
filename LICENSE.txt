@@ -1,5 +1,5 @@
 LICENCE D'UTILISATION DE VERVE
-Usage personnel et non commercial
+Usage personnel et professionnel, à titre gratuit
 
 Copyright © 2026 Tech-Side Consulting. Tous droits réservés.
 
@@ -9,16 +9,15 @@ le Logiciel.
 
 1. Licence accordée
 Tech-Side Consulting (l'« Éditeur ») vous accorde une licence gratuite, non exclusive,
-non transférable et révocable d'installer et d'utiliser le Logiciel, pour un usage
-strictement personnel et privé.
+non transférable et révocable d'installer et d'utiliser le Logiciel, pour vos propres
+besoins, à titre personnel comme à titre professionnel : au sein d'une entreprise, d'une
+administration, d'une association ou d'une activité indépendante.
 
 2. Usages interdits
 Sauf accord écrit préalable de l'Éditeur, il est interdit :
-a) d'utiliser le Logiciel dans un cadre professionnel ou commercial : pour le compte
-   d'une entreprise, d'une administration, d'une association ou d'une activité
-   indépendante, y compris pour un employeur ou pour des clients ;
-b) de vendre, louer, concéder en sous-licence ou distribuer le Logiciel, ou d'en tirer
-   un revenu de quelque manière que ce soit ;
+a) de vendre, louer ou concéder en sous-licence le Logiciel, de l'intégrer à un produit
+   ou à un service, ou de le fournir à des tiers contre rémunération ;
+b) de le distribuer autrement que dans les conditions prévues ci-dessous ;
 c) de modifier le Logiciel, d'en créer des œuvres dérivées ou de le redistribuer sous
    une forme modifiée ;
 d) de décompiler ou désassembler le Logiciel, sauf dans les cas où la loi l'autorise
@@ -26,7 +25,9 @@ d) de décompiler ou désassembler le Logiciel, sauf dans les cas où la loi l'a
 e) de retirer ou de masquer les mentions de propriété et la présente licence.
 
 Vous pouvez partager l'installeur d'origine, non modifié et à titre gratuit, avec des
-proches, pour leur propre usage personnel aux conditions de la présente licence.
+proches ou des collègues, pour leur propre usage aux conditions de la présente licence.
+Les textes que vous produisez avec le Logiciel vous appartiennent et vous pouvez les
+utiliser librement, y compris dans votre activité professionnelle.
 
 3. Propriété intellectuelle
 Le Logiciel est concédé sous licence et non vendu. L'Éditeur conserve l'ensemble des
@@ -36,14 +37,18 @@ droits de propriété intellectuelle sur le Logiciel, son nom, son logo et son i
 Le Logiciel utilise ou télécharge des composants et des modèles fournis par des tiers
 (notamment des bibliothèques de reconnaissance vocale et des modèles de langage). Ces
 éléments restent soumis à leurs propres licences, qui prévalent pour ce qui les
-concerne.
+concerne. Leur liste figure dans le fichier COMPOSANTS-TIERS.txt installé avec le
+Logiciel. En particulier, l'utilisation du modèle de correction Gemma est soumise aux
+conditions d'utilisation de Gemma (https://ai.google.dev/gemma/terms) et à sa politique
+d'usages interdits (https://ai.google.dev/gemma/prohibited_use_policy), que vous vous
+engagez à respecter.
 
 5. Données
 La reconnaissance vocale et la correction s'exécutent par défaut sur votre ordinateur.
 L'Éditeur ne collecte ni votre voix, ni vos textes, ni vos réglages. Si vous activez un
 service en ligne proposé en option, les textes dictés sont transmis au fournisseur de
-ce service, selon ses propres conditions. L'installation télécharge des composants
-depuis des serveurs tiers.
+ce service, selon ses propres conditions. Au premier lancement, le Logiciel télécharge
+ses composants depuis les serveurs de publication de l'Éditeur.
 
 6. Absence de garantie
 Le Logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou
@@ -62,4 +67,4 @@ devez alors cesser d'utiliser le Logiciel et le désinstaller.
 9. Droit applicable
 La présente licence est soumise au droit français.
 
-Pour un usage professionnel ou commercial, contactez Tech-Side Consulting.
+Pour toute autre utilisation (revente, intégration, distribution), contactez Tech-Side Consulting.
