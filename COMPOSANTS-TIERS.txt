@@ -14,12 +14,16 @@ Modèle de correction
   En utilisant la correction par IA locale, vous acceptez ces conditions.
 
 Moteur de correction
-  llama.cpp, auteurs de ggml. Licence MIT. https://github.com/ggml-org/llama.cpp
+  llama.cpp, auteurs de ggml. Licence MIT, dont le texte est joint au moteur. https://github.com/ggml-org/llama.cpp
 
 Reconnaissance vocale
   Modèles Whisper (OpenAI), convertis au format CTranslate2. Licence MIT.
   faster-whisper (SYSTRAN). Licence MIT. https://github.com/SYSTRAN/faster-whisper
   CTranslate2 (OpenNMT). Licence MIT. https://github.com/OpenNMT/CTranslate2
+  Silero VAD, détection de la parole (Silero Team). Licence MIT. https://github.com/snakers4/silero-vad
+  PyAV (BSD) et les bibliothèques FFmpeg qu'il embarque (avcodec, avformat, avutil, swresample, swscale),
+  sous licence LGPL ou GPL selon leur compilation : https://ffmpeg.org/legal.html
+  tokenizers et huggingface-hub (Hugging Face). Licence Apache 2.0.
 
 Accélération par carte graphique NVIDIA
   cuBLAS, cuDNN et bibliothèques d'exécution CUDA (NVIDIA Corporation), redistribuées sans modification
@@ -27,7 +31,9 @@ Accélération par carte graphique NVIDIA
   https://docs.nvidia.com/cuda/eula/ et https://docs.nvidia.com/deeplearning/cudnn/latest/reference/eula.html
 
 Environnement d'exécution et bibliothèques
-  Python (Python Software Foundation License), ONNX Runtime (MIT), NumPy (BSD), httpx (BSD),
+  Python (Python Software Foundation License), ONNX Runtime (MIT), NumPy (BSD) et OpenBLAS (BSD),
+  bibliothèque d'exécution Intel OpenMP (licence Intel Simplified Software), httpx (BSD), certifi (MPL 2.0),
+  bottle (MIT),
   PyYAML (MIT), Pillow (MIT-CMU), pywebview (BSD), pythonnet (MIT), pystray (LGPL v3),
   sounddevice (MIT) et PortAudio (MIT), keyboard (MIT), pyperclip (BSD), keyring (MIT), truststore (MIT),
   PyInstaller (GPL avec exception autorisant la distribution des applications empaquetées).

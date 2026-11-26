@@ -48,7 +48,7 @@ La reconnaissance vocale et la correction s'exécutent par défaut sur votre ord
 L'Éditeur ne collecte ni votre voix, ni vos textes, ni vos réglages. Si vous activez un
 service en ligne proposé en option, les textes dictés sont transmis au fournisseur de
 ce service, selon ses propres conditions. Au premier lancement, le Logiciel télécharge
-ses composants depuis les serveurs de publication de l'Éditeur.
+ses composants depuis l'espace de publication de l'Éditeur, hébergé par GitHub.
 
 6. Absence de garantie
 Le Logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou

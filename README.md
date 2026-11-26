@@ -21,11 +21,11 @@ L'icône Verve en bas à droite de l'écran, près de l'horloge, ouvre les régl
 
 ## Confidentialité
 
-Par défaut, la reconnaissance vocale et la correction tournent sur ton PC : ta voix et tes textes n'en sortent pas.
+Par défaut, la reconnaissance vocale et la correction tournent sur ton PC : ta voix et tes textes n'en sortent pas. Le journal de Verve ne contient pas ce que tu dictes, et la désinstallation propose d'effacer tes données.
 
 ## Configuration requise
 
-Windows 10 ou 11, 64 bits, un micro. Une carte graphique NVIDIA de 6 Go ou plus donne la meilleure précision ; sans elle, Verve utilise un modèle plus léger.
+Windows 10 ou 11, 64 bits, un micro. Une carte graphique NVIDIA de 4 Go ou plus donne la meilleure précision, et une carte de 6 Go ou plus active la correction par IA ; sans elles, Verve utilise un modèle plus léger.
 
 ## Licence
 
